@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/1277c44b8123ec3b4201c9e85f072de632c29fab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/dev/info/GamesSwitch/app/build/intermediates/pre-dexed/debug/classes_f1d3e273210c2866ab9a79616901e3e67e25f622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/75300acd52cdc389d6cab1504c76a45c220620fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/dev/info/GamesSwitch/app/build/intermediates/pre-dexed/debug/classes_ce2fbdee70b2edf7db564cdf1d8f8f85d95236f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/9871818b02876ff4307ca2c9aae2795714f5d05b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/dev/info/GamesSwitch/app/build/intermediates/pre-dexed/debug/classes_95f4b21fa763824cfda3e170017459c6509dfe73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/eeb89bb54f962498ec08149350cf2eebeccf3214/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/dev/info/GamesSwitch/app/build/intermediates/pre-dexed/debug/classes_d2ed313494bdd1c029b7ffb9a914a2bf6cf7304c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/c3b5fde0eb60f1509d58dd4f420e8440f3ebde44/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/dev/info/GamesSwitch/app/build/intermediates/pre-dexed/debug/classes_caa78ec14f8db0a59c9d5b50b217f5cc53c17e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/22e81df8cb336d5c3e2cd1b6adc0ad05e239121b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/dev/info/GamesSwitch/app/build/intermediates/pre-dexed/debug/classes_f5cb5d118efa27fc7722bfe40d339a37b3ad76ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/1954ae9d4279c6915fb5e2a76301c7f1527ec932/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/dev/info/GamesSwitch/app/build/intermediates/pre-dexed/debug/classes_165a308e8f5910c74bd1c3f3ce0f52bf3f79a9dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/d24436caad2354195fa1fe3a396fcd6fff6759f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/dev/info/GamesSwitch/app/build/intermediates/pre-dexed/debug/classes_8f22c9e9313ae970bcde9451b71d4453ef291a09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/26fc518ecebd39200618ec751c82abbcb54c86c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/dev/info/GamesSwitch/app/build/intermediates/pre-dexed/debug/classes_9d8879683722160d7515bf0f21138a40f0bbf49a.jar" />
+    </item>
+
+</items>

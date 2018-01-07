@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/dev/info/GamesSwitch/app/build/intermediates/res/merged/release/raw/dice.mp3",
+        "source": "/home/dev/info/GamesSwitch/app/src/main/res/raw/dice.mp3"
+    },
+    {
+        "merged": "/home/dev/info/GamesSwitch/app/build/intermediates/res/merged/release/raw/buttonstart.mp3",
+        "source": "/home/dev/info/GamesSwitch/app/src/main/res/raw/buttonstart.mp3"
+    },
+    {
+        "merged": "/home/dev/info/GamesSwitch/app/build/intermediates/res/merged/release/raw/buttonclick2.mp3",
+        "source": "/home/dev/info/GamesSwitch/app/src/main/res/raw/buttonclick2.mp3"
+    }
+]

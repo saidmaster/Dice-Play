@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dice Play</string>
+    <string name="dicegame">Dice Game</string>
+    <string name="start">Start Playing</string>
+    <string name="tryagain">Try Again</string>
+    <string name="throwdice">Throw Dice</string>
+    <string name="makechance">DICE 6 SIDES</string>
+    <string name="showDice">Show Dice</string>
+    <string name="about">About us</string>
+    <string name="contact">Contact us</string>
+    <string name="versionName">First Verstion</string>
+</resources>

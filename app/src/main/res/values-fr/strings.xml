@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Jeux de Dé</string>
+    <string name="dicegame">Jeux de Dé</string>
+    <string name="start">Jouer</string>
+    <string name="tryagain">Ressayer</string>
+    <string name="throwdice">Lancer le Dé</string>
+    <string name="makechance">Dé de 06 faces</string>
+    <string name="showDice">Afficher le Dé</string>
+    <string name="about">A propos de nous</string>
+    <string name="contact">Contacter nous</string>
+    <string name="versionName">Première Version</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:baselineAligned="false"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/dialog_frame"
+        android:gravity="center"
+        android:text="@string/makechance"
+        android:textColor="@android:color/background_light"
+        android:textSize="30sp"
+        tools:background="@android:drawable/editbox_background_normal"
+        tools:textColor="?android:attr/colorForeground" />
+
+    <ImageView
+        android:id="@+id/imgDice"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center" />
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        >
+
+        <ImageButton
+            android:id="@+id/btndice"
+            android:layout_width="246dp"
+            android:layout_height="65dp"
+            android:layout_gravity="center"
+            android:layout_weight="0.41"
+            android:contentDescription="myImageDice"
+            android:gravity="center"
+            android:src="@drawable/color_button"
+            android:text="@string/throwdice"
+            android:textAlignment="center"
+            android:textColor="?attr/editTextColor"
+            android:textSize="30sp"
+            android:textStyle="normal|bold" />
+
+        <TextView
+            android:id="@+id/myTextImageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:shadowColor="@color/myColor"
+            android:text="@string/throwdice"
+            android:textColor="@android:color/white"
+            android:textSize="30sp" />
+
+    </FrameLayout>
+
+
+</LinearLayout>
